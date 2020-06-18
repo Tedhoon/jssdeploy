@@ -1,13 +1,14 @@
-# JSS PROJECT
+# PNU멋사 8기 자소설 프로젝트 EC2에 배포하기 수업!
 
 ```bash
 git clone https://github.com/Tedhoon/Jasoseol-Project.git
 ```
 👉 레포지토리 다운받기
 
-```bash
-$ python manage.py migrate
-```
-👉 클론후 해야할 것
+## stack
 
-👀 데이터베이스를 지웠기 때문에 migrate만 수행해주시면 새로운 sqlite와 함께 runserver를 하실 수 있습니다.
+- aws ec2
+- uwsgi
+- nginx
+
+## 화팅,,
